@@ -1,4 +1,4 @@
-# Global Cart Declaration
+# Cart for adding items
 cart = []
 
 # Start Page
